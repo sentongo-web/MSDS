@@ -1,2 +1,2 @@
-# MSDS
- contains the final project
+# MACHINE LEARNING FOR ACCURATE VALUATION OF IMPORTED ITEMS IN UGANDA
+The dataset contains Uganda's import trade data, detailing specific transactions with information like date, product description (HS Code and Item Description), country of origin, port of shipment, quantities, values (FOB, Freight, Insurance, CIF in USD and UGX), tax rates, and mode of transport. This data was accessed from the Uganda Revenue Authority open database source online and used to analyse Uganda's import patterns, identify key trading partners and imported goods, and understand the costs of importing various products.
